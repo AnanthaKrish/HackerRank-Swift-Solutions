@@ -12,5 +12,13 @@ Hacker Rank solutions in Swift
 
 4. [Counting Valleys problem](https://github.com/AnanthaKrish/HackerRank-Swift-Solutions/blob/master/counting-valleys.swift)
   For the problem statement refer this - https://www.hackerrank.com/challenges/counting-valleys/problem
+
 5. [Jumping on the Clouds problem](https://github.com/AnanthaKrish/HackerRank-Swift-Solutions/blob/master/Jumping-on-the-Clouds.swift)
   For the problem statement refer this - https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+
+6. [Repeated String problem](https://github.com/AnanthaKrish/HackerRank-Swift-Solutions/blob/master/Repeated-String.swift)
+  For the problem statement refer this - https://www.hackerrank.com/challenges/repeated-string/problem
+
+
+
+  
