@@ -22,5 +22,8 @@ For the problem statement refer this - https://www.hackerrank.com/challenges/rep
 7. [New Year Chaos problem](https://github.com/AnanthaKrish/HackerRank-Swift-Solutions/blob/master/New-Year-Chaos.swift)
 For the problem statement refer this - https://www.hackerrank.com/challenges/new-year-chaos/problem
 
+8. [Minimum Swaps 2 problem](https://github.com/AnanthaKrish/HackerRank-Swift-Solutions/blob/master/Minimum-Swaps-2.swift)
+For the problem statement refer this - https://www.hackerrank.com/challenges/minimum-swaps-2/problem
+
 
 
